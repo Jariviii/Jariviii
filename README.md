@@ -1,4 +1,4 @@
-# Título del Proyecto
+# GITHUB de Javi Miralles
 
 ![Imagen de Portada](gladiator.jpg)
 
