@@ -1,10 +1,6 @@
 <h1 align="center">Javier Miralles Costas</h1>
 <h3 align="center">👨‍💻 Junior Multiplatform Application Developer</h3>
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/04/01/11/09/technology-1303412_960_720.png" width="250" alt="developer" />
-</p>
-
 ---
 
 ## 🧠 Core Technologies
