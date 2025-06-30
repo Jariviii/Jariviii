@@ -1,44 +1,27 @@
-<h1 align="center">Hola 👋  soy Javi ✨ </h1> 
+# Hola 👋 soy Javi ✨
 
+🎓 Desarrollador de Aplicaciones Multiplataforma  
+🚀 Apasionado por la tecnología, los datos y el desarrollo móvil  
+🧠 En continuo aprendizaje
 
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+## 📬 Contacto
+
+- ✉️ Email: jarivil94@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/javimiralles/)  
+- 💻 [Proyectos destacados](https://github.com/Jariviii?tab=repositories)
+
+## 🧰 Tecnologías conocidas
 
 <p align="left">
-🎓 DESARROLLADOR DE APLICACION MULTIPLATAFORMA
-
-
-📫 Contacto: **jarivil94@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,dart,flutter,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,eclipse,vscode,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,dart,flutter,nodejs,html,css,js,php,mysql,sqlite,git,github,vscode,linux" />
 </p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
+## 📱 Proyectos destacados
 
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+- 🔍 [TFG_BUSCAPRECIOS](https://github.com/Jariviii/TFG_BUSCAPRECIOS): comparador de precios con app, scraper y API.
+- 📲 App de gestión de formularios dinámicos con Kotlin + Firebase.
+- 📊 Script de scraping con visualización de datos en Python.
 
+---
 
-
-
-
-
-</p>        
-<!--- stats (end) -->
+Gracias por visitar mi perfil 🙌
