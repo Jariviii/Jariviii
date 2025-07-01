@@ -73,7 +73,9 @@ Proactive, organized, and highly motivated to grow professionally. I'm focused o
 
 - Grado Superior DAM – Universidad Alfonso X el Sabio (2025)  
 - FP Medio de Farmacia y Parafarmacia (2022)  
-- Curso de Flutter (YouTube)  
+- Curso de Flutter (Udemy)  
+- Curso de Linux (Udemy)  
+- Curso de Node (Udemy)  
 - Python y análisis de datos (autodidacta)
 
 ---
