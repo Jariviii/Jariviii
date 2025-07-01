@@ -39,16 +39,6 @@
 <summary>🇪🇸 Información en español</summary>
 
 ¡Hola! Soy Javi, desarrollador junior especializado en aplicaciones multiplataforma. Me gusta crear soluciones útiles, seguir aprendiendo y trabajar en equipo.  
-Aquí puedes ver un resumen de mi perfil, formación, proyectos y contacto:
-
-- [Resumen](#resumen--summary)
-- [Sobre mí](#sobre-mí--about-me)
-- [Tecnologías](#tecnologías--technologies)
-- [Formación y cursos](#formación-y-cursos--training-and-courses)
-- [Logros](#logros--achievements)
-- [Carrera profesional](#carrera-profesional--professional-career)
-- [Proyectos personales](#proyectos-personales--personal-projects)
-- [Contacto](#contacto--contact)
 
 </details>
 
@@ -58,16 +48,6 @@ Aquí puedes ver un resumen de mi perfil, formación, proyectos y contacto:
 <summary>🇬🇧 Information in English</summary>
 
 Hi! I'm Javi, a junior cross-platform developer. I love building useful things, learning new tech and working in teams.  
-Here you can find an overview of my background, skills, projects, and contact:
-
-- [Summary](#resumen--summary)
-- [About me](#sobre-mí--about-me)
-- [Technologies](#tecnologías--technologies)
-- [Training and courses](#formación-y-cursos--training-and-courses)
-- [Achievements](#logros--achievements)
-- [Professional career](#carrera-profesional--professional-career)
-- [Personal projects](#proyectos-personales--personal-projects)
-- [Contact](#contacto--contact)
 
 </details>
 
