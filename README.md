@@ -1,5 +1,5 @@
 <h1 align="center">Javier Miralles Costas</h1>
-<h3 align="center">👨‍💻 Junior Multiplatform Application Developer</h3>
+<h3 align="center">👨‍💻  Multiplatform Application Developer</h3>
 
 ---
 
