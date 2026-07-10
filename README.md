@@ -1,7 +1,4 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="./banner.png" alt="Javi — Applied AI & Full-Stack Engineer" width="100%">
-</p>
+<h1 align="center">Javi · Applied AI &amp; Full-Stack Engineer</h1>
 
 <!-- TYPING SUBTITLE -->
 <p align="center">
@@ -92,7 +89,6 @@ My technical base is **full-stack** development with Python: FastAPI backends, R
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jariviii&layout=compact&hide_border=true&title_color=22d3ee&text_color=8ba0bd&bg_color=0a0e1a" alt="Top Langs">
 </p>
 
-<!-- SNAKE: se activa tras correr la GitHub Action Platane/snk una vez. Descomenta cuando exista la rama 'output'. -->
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jariviii/Jariviii/output/snake.svg" alt="Contribution snake">
