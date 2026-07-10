@@ -1,4 +1,4 @@
-<h1 align="center">Javi · Applied AI &amp; Full-Stack Engineer</h1>
+<h1 align="center">Javi · Applied AI &amp; Full-Stack Developer</h1>
 
 <!-- TYPING SUBTITLE -->
 <p align="center">
@@ -8,6 +8,7 @@
 <!-- SOCIAL -->
 <p align="center">
   <a href="https://www.linkedin.com/in/javimiralles"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://iagentshub.com/"><img src="https://img.shields.io/badge/IAgentshub-22D3EE?style=for-the-badge&logo=openai&logoColor=white" alt="IAgentshub"></a>&nbsp;
   <a href="mailto:jarivil94@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>
 </p>
 
@@ -17,9 +18,11 @@
 
 ## &nbsp;⟢&nbsp; About me
 
-Software engineer focused on **applied AI and LLMs**. I design and build agentic systems — orchestrators, routing / planning / execution agents, permission and memory layers — and integrate language models into real products.
+Software developer focused on **applied AI and LLMs**. I design and build agentic systems — orchestrators, routing / planning / execution agents, permission and memory layers — and integrate language models into real products.
 
 My technical base is **full-stack** development with Python: FastAPI backends, React / TypeScript frontends, and PostgreSQL. I work across product and architecture decisions.
+
+&nbsp;🤖&nbsp; Co-founder of **[IAgentshub](https://iagentshub.com/)** — open-source platform to build and share AI agents with full control over your data
 
 &nbsp;🧩&nbsp; Agentic systems, automation & local-first architectures
 
@@ -54,13 +57,19 @@ My technical base is **full-stack** development with Python: FastAPI backends, R
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>🤖 IAgentshub</h3>
+      <p><sub>Open-source platform to build and share AI agents with full control over your data.</sub></p>
+      <p><sub><b>Role:</b> Co-founder</sub></p>
+      <a href="https://iagentshub.com/">→ Visit</a>
+    </td>
+    <td width="33%" valign="top">
       <h3>🏛️ Romanos</h3>
       <p><sub>Management app for a social association. Modular architecture, repository pattern, production-grade.</sub></p>
       <p><sub><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></sub></p>
       <a href="https://github.com/Jariviii/Romanos">→ Repo</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🔎 BuscaPrecios</h3>
       <p><sub>Bachelor's thesis: a price search & comparison tool.</sub></p>
       <p><sub><code>Python</code></sub></p>

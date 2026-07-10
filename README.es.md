@@ -1,4 +1,4 @@
-<h1 align="center">Javi · Applied AI &amp; Full-Stack Engineer</h1>
+<h1 align="center">Javi · Applied AI &amp; Full-Stack Developer</h1>
 
 <!-- SUBTÍTULO ANIMADO -->
 <p align="center">
@@ -8,7 +8,7 @@
 <!-- SOCIAL -->
 <p align="center">
   <a href="https://www.linkedin.com/in/javimiralles"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="[URL_IAGENTSHUB]"><img src="https://img.shields.io/badge/IAgentshub-22D3EE?style=for-the-badge&logo=openai&logoColor=white" alt="IAgentshub"></a>&nbsp;
+  <a href="https://iagentshub.com/"><img src="https://img.shields.io/badge/IAgentshub-22D3EE?style=for-the-badge&logo=openai&logoColor=white" alt="IAgentshub"></a>&nbsp;
   <a href="mailto:jarivil94@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>
 </p>
 
@@ -20,11 +20,11 @@
 
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Jariviii&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=3b82f6&text_color=8ba0bd&bg_color=0a0e1a" alt="Stats">
 
-Ingeniero de software centrado en **IA aplicada y LLMs**. Diseño y construyo sistemas agénticos — orquestadores, agentes de routing / planning / ejecución, capas de permisos y memoria — e integro modelos de lenguaje en productos reales.
+Desarrollador de software centrado en **IA aplicada y LLMs**. Diseño y construyo sistemas agénticos — orquestadores, agentes de routing / planning / ejecución, capas de permisos y memoria — e integro modelos de lenguaje en productos reales.
 
 Mi base técnica es el desarrollo **full-stack** con Python: APIs con FastAPI, frontends en React / TypeScript y datos en PostgreSQL. Trabajo tanto en producto como en decisiones de arquitectura.
 
-&nbsp;🤖&nbsp; Co-fundador de **[IAgentshub]([URL_IAGENTSHUB])** — *[descripción en una frase]*
+&nbsp;🤖&nbsp; Co-fundador de **[IAgentshub](https://iagentshub.com/)** — plataforma open-source para crear y compartir agentes de IA con control total sobre tus datos
 
 &nbsp;🧩&nbsp; Sistemas agénticos, automatización y arquitecturas local-first
 
@@ -63,9 +63,9 @@ Mi base técnica es el desarrollo **full-stack** con Python: APIs con FastAPI, f
   <tr>
     <td width="33%" valign="top">
       <h3>🤖 IAgentshub</h3>
-      <p><sub><i>[frase sobre IAgentshub]</i></sub></p>
+      <p><sub>Plataforma open-source para crear y compartir agentes de IA con control total sobre tus datos.</sub></p>
       <p><sub><b>Rol:</b> Co-fundador</sub></p>
-      <a href="[URL_IAGENTSHUB]">→ Visitar</a>
+      <a href="https://iagentshub.com/">→ Visitar</a>
     </td>
     <td width="33%" valign="top">
       <h3>🏛️ Romanos</h3>
