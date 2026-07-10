@@ -1,147 +1,104 @@
-<h1 align="center">Javier Miralles Costas</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | React + FastAPI | AI Applied</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="./banner.svg" alt="Javi — Applied AI & Full-Stack Engineer" width="100%">
+</p>
 
----
+<!-- SUBTÍTULO ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Construyo+sistemas+con+LLMs+y+agentes+IA;FastAPI+%C2%B7+React+%C2%B7+PostgreSQL;Del+prototipo+a+producci%C3%B3n" alt="Typing SVG">
+</p>
 
-## 🧠 Core Technologies
-![Python](https://img.shields.io/badge/Python-High--Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-High--Intermediate-orange)
-![Git](https://img.shields.io/badge/Git-High--Intermediate-red)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-gray)
-![Java](https://img.shields.io/badge/Java-Intermediate-blue)
+<!-- SOCIAL -->
+<p align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="[URL_IAGENTSHUB]"><img src="https://img.shields.io/badge/IAgentshub-22D3EE?style=for-the-badge&logo=openai&logoColor=white" alt="IAgentshub"></a>&nbsp;
+  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>
+</p>
 
----
+<p align="center"><sub>🇪🇸 Español &nbsp;·&nbsp; <a href="./README.md">🇬🇧 English</a></sub></p>
 
-## 🌐 Frontend
-![React](https://img.shields.io/badge/React-High--Intermediate-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-High--Intermediate-3178C6)
-![Vite](https://img.shields.io/badge/Vite-High--Intermediate-646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-High--Intermediate-orange)
-![CSS3](https://img.shields.io/badge/CSS3-High--Intermediate-blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-purple)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue)
+<br>
 
----
+## &nbsp;⟢&nbsp; Sobre mí
 
-## 🔧 Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-High--Intermediate-009688)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-High--Intermediate-D71F00)
-![Alembic](https://img.shields.io/badge/Alembic-High--Intermediate-444444)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Jariviii&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=3b82f6&text_color=8ba0bd&bg_color=0a0e1a" alt="Stats">
 
----
+Ingeniero de software centrado en **IA aplicada y LLMs**. Diseño y construyo sistemas agénticos — orquestadores, agentes de routing / planning / ejecución, capas de permisos y memoria — e integro modelos de lenguaje en productos reales.
 
-## 🛢️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-High--Intermediate-4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-lightblue)
-![SQLite](https://img.shields.io/badge/SQLite-High--Intermediate-blue)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange)
+Mi base técnica es el desarrollo **full-stack** con Python: APIs con FastAPI, frontends en React / TypeScript y datos en PostgreSQL. Trabajo tanto en producto como en decisiones de arquitectura.
 
----
+&nbsp;🤖&nbsp; Co-fundador de **[IAgentshub]([URL_IAGENTSHUB])** — *[descripción en una frase]*
 
-## 🧱 DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-High--Intermediate-2496ED)
-![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-High--Intermediate-0db7ed)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-High--Intermediate-2088FF)
-![Traefik](https://img.shields.io/badge/Traefik-Intermediate-24A1C1)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Intermediate-F38020)
+&nbsp;🧩&nbsp; Sistemas agénticos, automatización y arquitecturas local-first
 
----
+&nbsp;🛠️&nbsp; Máquinas de estado, RBAC, pipelines de datos y refactors complejos
 
-## 🤖 AI / LLM
-![LLMs](https://img.shields.io/badge/LLMs-High--Intermediate-8A2BE2)
-![OCR](https://img.shields.io/badge/OCR-Intermediate-6A5ACD)
-![RAG](https://img.shields.io/badge/RAG-Intermediate-6A5ACD)
-![Ollama](https://img.shields.io/badge/Ollama-Intermediate-111111)
+<br clear="right">
 
----
+## &nbsp;⟢&nbsp; Stack técnico
 
-## 🧰 Tools
-![GitHub](https://img.shields.io/badge/GitHub-High--Intermediate-black)
-![VSCode](https://img.shields.io/badge/VSCode-Daily-blue)
-![Postman](https://img.shields.io/badge/Postman-High--Intermediate-FF6C37)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,react,ts,docker,git&theme=dark" alt="Stack">
+</p>
 
----
+<table>
+  <tr>
+    <td><b>IA / LLMs</b></td>
+    <td>Sistemas agénticos · Integración de LLMs · Orquestación · Python</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>FastAPI · PostgreSQL · SQLAlchemy · Redis</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React · TypeScript · TanStack Query</td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td>Docker · Git · Alembic</td>
+  </tr>
+</table>
 
-<details open>
-<summary>🇪🇸 Información en español</summary>
+## &nbsp;⟢&nbsp; Proyectos destacados
 
-¡Hola! Soy Javi, desarrollador titulado en DAM enfocado en desarrollo Full-Stack moderno.  
-Trabajo principalmente con **React + TypeScript** en frontend y **FastAPI + PostgreSQL** en backend, desplegando con **Docker y CI/CD**.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 IAgentshub</h3>
+      <p><sub><i>[frase sobre IAgentshub]</i></sub></p>
+      <p><sub><b>Rol:</b> Co-fundador</sub></p>
+      <a href="[URL_IAGENTSHUB]">→ Visitar</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏛️ Romanos</h3>
+      <p><sub>App de gestión para una asociación social. Arquitectura modular, patrón repositorio, calidad de producción.</sub></p>
+      <p><sub><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></sub></p>
+      <a href="https://github.com/Jariviii/Romanos">→ Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔎 BuscaPrecios</h3>
+      <p><sub>Trabajo de Fin de Grado: buscador y comparador de precios.</sub></p>
+      <p><sub><code>Python</code></sub></p>
+      <a href="https://github.com/Jariviii/TFG_BUSCAPRECIOS">→ Repo</a>
+    </td>
+  </tr>
+</table>
 
-Me interesa especialmente la **modularización**, arquitecturas multi-tenant y la **IA aplicada** (OCR + LLMs) para automatización de procesos empresariales.
+## &nbsp;⟢&nbsp; Actividad en GitHub
 
-</details>
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jariviii&hide_border=true&background=0a0e1a&stroke=22d3ee&ring=3b82f6&fire=22d3ee&currStreakLabel=22d3ee&sideNums=8ba0bd&currStreakNum=f8fafc&dates=8ba0bd&sideLabels=8ba0bd&locale=es" alt="Racha">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jariviii&layout=compact&hide_border=true&title_color=22d3ee&text_color=8ba0bd&bg_color=0a0e1a" alt="Lenguajes">
+</p>
 
----
+<!-- Animación snake: requiere la GitHub Action Platane/snk (ver nota de setup) -->
+<p align="center"
+  <img src="https://raw.githubusercontent.com/Jariviii/Jariviii/output/snake.svg" alt="Snake de contribuciones">
+</p>
 
-<details>
-<summary>🇬🇧 Information in English</summary>
+<br>
 
-Hi! I'm Javi, a DAM-degree Full-Stack developer.  
-I mainly work with **React + TypeScript** on the frontend and **FastAPI + PostgreSQL** on the backend, deploying with **Docker and CI/CD**.
-
-I'm especially interested in modular architectures, multi-tenant systems, and **applied AI** (OCR + LLMs) for business automation.
-
-</details>
-
----
-
-## 📘 Resumen / Summary
-
-Desarrollador con base sólida en **Python y SQL**, construyendo aplicaciones Full-Stack con **React, FastAPI y PostgreSQL**, gestionando despliegues con **Docker/Compose** y flujos CI/CD.  
-
-Interés en arquitectura limpia, automatización y sistemas impulsados por IA.
-
----
-
-## 👤 Sobre mí / About me
-
-Proactivo, organizado y orientado a producto. Me gusta estructurar proyectos mantenibles (linting, testing, migraciones, CI).  
-Busco seguir creciendo en entornos técnicos exigentes.
-
----
-
-## 🎓 Formación y cursos / Training and courses
-
-- Grado Superior DAM – Universidad Alfonso X el Sabio (2025)  
-- FP Medio de Farmacia y Parafarmacia (2022)  
-- Curso de Flutter (Udemy)  
-- Curso de Linux (Udemy)  
-- Curso de Node (Udemy)  
-- Python y análisis de datos (autodidacta)
-
----
-
-## 🏆 Logros / Achievements
-
-- TFG con app + API + scraper  
-- Proyectos Full-Stack con Docker + PostgreSQL  
-- Integración de OCR y LLM en flujos de negocio  
-
-
----
-
-## 💼 Carrera profesional / Professional career
-
-Buscando oportunidades como **Full-Stack / Backend Python Developer** para aportar en proyectos reales con arquitecturas modernas y buenas prácticas.
-
----
-
-## 💻 Proyectos personales / Personal projects
-
-- 🔍 [TFG_BUSCAPRECIOS](https://github.com/Jariviii/TFG_BUSCAPRECIOS) – Comparador de precios  
-- 📲 App de formularios (Kotlin + Firebase)  
-- 🐍 Scraper en Python con visualización de datos  
-
----
-
-## 📬 Contacto / Contact
-
-- 📧 Email: jarivil94@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/javimiralles/)  
-- 💻 [GitHub](https://github.com/Jariviii)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=Jariviii&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jariviii&style=flat&color=22d3ee&label=Visitas+al+perfil" alt="Visitas">
+</p>
