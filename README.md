@@ -1,8 +1,8 @@
-<h1 align="center">Javi · Applied AI &amp; Full-Stack Developer</h1>
+<h1 align="center">Javi · Full-Stack Developer</h1>
 
 <!-- TYPING SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+systems+with+LLMs+and+AI+agents;FastAPI+%C2%B7+React+%C2%B7+PostgreSQL;From+prototype+to+production" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Java+%C2%B7+TypeScript;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React;From+prototype+to+production" alt="Typing SVG">
 </p>
 
 <!-- SOCIAL -->
@@ -18,38 +18,40 @@
 
 ## &nbsp;⟢&nbsp; About me
 
-Software developer focused on **applied AI and LLMs**. I design and build agentic systems — orchestrators, routing / planning / execution agents, permission and memory layers — and integrate language models into real products.
-
-My technical base is **full-stack** development with Python: FastAPI backends, React / TypeScript frontends, and PostgreSQL. I work across product and architecture decisions.
+Full-stack developer building web products end to end. I work with **Python** and **Java** on the backend, **React / TypeScript** on the frontend, and **PostgreSQL** for data. I care about clean architecture, maintainable code, and shipping things that actually work in production.
 
 &nbsp;🤖&nbsp; Co-founder of **[IAgentshub](https://iagentshub.com/)** — open-source platform to build and share AI agents with full control over your data
 
-&nbsp;🧩&nbsp; Agentic systems, automation & local-first architectures
+&nbsp;🧩&nbsp; Modular architecture, state machines & RBAC
 
-&nbsp;🛠️&nbsp; State machines, RBAC, data pipelines & complex refactors
+&nbsp;🛠️&nbsp; Data pipelines, complex refactors & automation
 
 ## &nbsp;⟢&nbsp; Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,react,ts,docker,git&theme=dark" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,postgres,redis,react,ts,docker,git&theme=dark" alt="Tech stack">
 </p>
 
 <table>
   <tr>
-    <td><b>AI / LLMs</b></td>
-    <td>Agentic systems · LLM integration · Orchestration · Python</td>
+    <td><b>Languages</b></td>
+    <td>Python · Java · TypeScript</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td>FastAPI · PostgreSQL · SQLAlchemy · Redis</td>
+    <td>FastAPI · Spring Boot · PostgreSQL · SQLAlchemy · Redis</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>React · TypeScript · TanStack Query</td>
   </tr>
   <tr>
+    <td><b>AI / LLMs</b></td>
+    <td>Agentic systems · LLM integration · Orchestration</td>
+  </tr>
+  <tr>
     <td><b>Tooling</b></td>
-    <td>Docker · Git · Alembic</td>
+    <td>Docker · Git · Alembic · Maven</td>
   </tr>
 </table>
 

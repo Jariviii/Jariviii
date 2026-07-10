@@ -1,8 +1,8 @@
-<h1 align="center">Javi · Applied AI &amp; Full-Stack Developer</h1>
+<h1 align="center">Javi · Full-Stack Developer</h1>
 
 <!-- SUBTÍTULO ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Construyo+sistemas+con+LLMs+y+agentes+IA;FastAPI+%C2%B7+React+%C2%B7+PostgreSQL;Del+prototipo+a+producci%C3%B3n" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Java+%C2%B7+TypeScript;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React;Del+prototipo+a+producci%C3%B3n" alt="Typing SVG">
 </p>
 
 <!-- SOCIAL -->
@@ -20,40 +20,42 @@
 
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Jariviii&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=3b82f6&text_color=8ba0bd&bg_color=0a0e1a" alt="Stats">
 
-Desarrollador de software centrado en **IA aplicada y LLMs**. Diseño y construyo sistemas agénticos — orquestadores, agentes de routing / planning / ejecución, capas de permisos y memoria — e integro modelos de lenguaje en productos reales.
-
-Mi base técnica es el desarrollo **full-stack** con Python: APIs con FastAPI, frontends en React / TypeScript y datos en PostgreSQL. Trabajo tanto en producto como en decisiones de arquitectura.
+Desarrollador full-stack que construye productos web de principio a fin. Trabajo con **Python** y **Java** en el backend, **React / TypeScript** en el frontend, y **PostgreSQL** para datos. Me importa la arquitectura limpia, el código mantenible y entregar cosas que funcionen en producción.
 
 &nbsp;🤖&nbsp; Co-fundador de **[IAgentshub](https://iagentshub.com/)** — plataforma open-source para crear y compartir agentes de IA con control total sobre tus datos
 
-&nbsp;🧩&nbsp; Sistemas agénticos, automatización y arquitecturas local-first
+&nbsp;🧩&nbsp; Arquitectura modular, máquinas de estado y RBAC
 
-&nbsp;🛠️&nbsp; Máquinas de estado, RBAC, pipelines de datos y refactors complejos
+&nbsp;🛠️&nbsp; Pipelines de datos, refactors complejos y automatización
 
 <br clear="right">
 
 ## &nbsp;⟢&nbsp; Stack técnico
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,react,ts,docker,git&theme=dark" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,postgres,redis,react,ts,docker,git&theme=dark" alt="Stack">
 </p>
 
 <table>
   <tr>
-    <td><b>IA / LLMs</b></td>
-    <td>Sistemas agénticos · Integración de LLMs · Orquestación · Python</td>
+    <td><b>Lenguajes</b></td>
+    <td>Python · Java · TypeScript</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td>FastAPI · PostgreSQL · SQLAlchemy · Redis</td>
+    <td>FastAPI · Spring Boot · PostgreSQL · SQLAlchemy · Redis</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>React · TypeScript · TanStack Query</td>
   </tr>
   <tr>
+    <td><b>IA / LLMs</b></td>
+    <td>Sistemas agénticos · Integración de LLMs · Orquestación</td>
+  </tr>
+  <tr>
     <td><b>Herramientas</b></td>
-    <td>Docker · Git · Alembic</td>
+    <td>Docker · Git · Alembic · Maven</td>
   </tr>
 </table>
 
@@ -88,12 +90,6 @@ Mi base técnica es el desarrollo **full-stack** con Python: APIs con FastAPI, f
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jariviii&hide_border=true&background=0a0e1a&stroke=22d3ee&ring=3b82f6&fire=22d3ee&currStreakLabel=22d3ee&sideNums=8ba0bd&currStreakNum=f8fafc&dates=8ba0bd&sideLabels=8ba0bd&locale=es" alt="Racha">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jariviii&layout=compact&hide_border=true&title_color=22d3ee&text_color=8ba0bd&bg_color=0a0e1a" alt="Lenguajes">
 </p>
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jariviii/Jariviii/output/snake.svg" alt="Snake de contribuciones">
-</p>
--->
 
 <br>
 
